@@ -12,7 +12,7 @@ public class helloWorld2 {
 	}
 
 	public static void main(String[] args) {
-		System.out.println(display(5,8,11,25,55,8865,954654,45545,1,6,6,88,44));
+		System.out.println(display(5,10,15,20,25,30,35,40,45,50));
 		
 	}
 
