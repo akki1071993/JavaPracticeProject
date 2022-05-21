@@ -1,0 +1,6 @@
+package akash2;
+import akash.helloWorld;
+
+public class Child extends helloWorld2 {
+
+}

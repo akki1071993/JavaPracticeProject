@@ -1,0 +1,21 @@
+package akash;
+
+public class helloWorld {
+
+	public static void main(String[] args) {
+		System.out.println("Hello world !");
+
+		String s = "Akash Mahant";
+		String s1 = "Akash Mahant";
+		int re = s1.indexOf(1);
+		int re2 = s.indexOf(1)
+
+		if (re == re2) {
+			System.out.println("Given string is same!");
+		} else {
+			System.out.println("Given string is not same");
+		}
+
+	}
+
+}

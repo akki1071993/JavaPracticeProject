@@ -1,0 +1,27 @@
+package practice_project;
+import java.util.Scanner;
+
+public class Loop {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Enter loop end point: ");
+		int n =0;
+		int v = sc.nextInt();
+		
+		for(int x = 1;x<=v;x++) {
+			System.out.println(x); 
+		}
+		
+		while (n<=v) {
+			
+			System.out.println(n); 
+			n++;
+		}
+		
+		
+	}
+
+}

@@ -1,0 +1,40 @@
+package practice_project;
+import java.util.Scanner;
+
+public class Loop {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		int n1,n2,n3= 0;
+		System.out.println("Enter loop end point 4 for loop : ");
+		
+		int v = sc.nextInt();
+		System.out.println("Enter loop end point for while loop : ");
+		int w = sc.nextInt();
+		
+		System.out.println("Enter loop end point for do..while loop : ");
+		int wd = sc.nextInt();
+		
+		
+		//for loop
+		for(n1 = 1;n1<=v;n1++) {
+			System.out.println(n1); 
+		}
+		
+		//while loop 
+		
+		while (n2<=w) {
+			
+			System.out.println(n2); 
+			n2++;
+		}
+		
+		do {
+			
+		} while (n3<=wd);
+		
+		
+	}
+
+}

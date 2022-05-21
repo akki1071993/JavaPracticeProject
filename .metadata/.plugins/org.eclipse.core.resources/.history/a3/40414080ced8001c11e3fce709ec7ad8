@@ -1,0 +1,16 @@
+package akash2;
+
+public class helloWorld2 {
+	public class Opration {
+		int v =500;
+		void change(int v) {
+			 v = v+100;
+		}
+		
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

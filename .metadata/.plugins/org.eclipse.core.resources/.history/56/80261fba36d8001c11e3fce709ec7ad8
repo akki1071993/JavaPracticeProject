@@ -1,0 +1,27 @@
+package practice_project;
+
+import akash.Sum;
+
+public class Overloading {
+	public static void main(String[] args) {
+		System.out.println("Hello world !");
+		System.out.println(Sum.Add(10, 20));
+		System.out.println(Sum.Add(10.5f, 20.5f));
+		System.out.println(Sum.Add(10.50f, 20));
+	}
+
+}
+
+class Sum {
+	static int Add(int x, int y) {
+		return x + y;
+	}
+
+	static float Add(float x, float y) {
+		return x + y;
+	}
+	
+	static float Add(float x, int y) {
+		return x + y;
+	}
+}

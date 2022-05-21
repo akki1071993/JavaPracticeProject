@@ -1,0 +1,23 @@
+package akash;
+import java.util.Scanner;
+
+public class demo {
+	public static void main(String[] args) {
+		Scanner sc =  new Scanner(System.in);
+		char c = 'L';
+		int a = c; //Widening converting
+		System.out.println(a);
+		
+        System.out.println("Enter an integer value");
+        int v = sc.nextInt();
+        char ch = (char)v;
+        
+        System.out.println("Character value of given integer:"+ ch);
+        
+        
+        
+		
+		
+	}
+
+}

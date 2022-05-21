@@ -1,0 +1,10 @@
+package akash;
+
+public class demo {
+	public static void main(String[] args) {
+		char c = 'L';
+		int a = c;
+		System.out.println(a);
+	}
+
+}

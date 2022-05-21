@@ -1,0 +1,14 @@
+package akash2;
+
+public class helloWorld2 {
+
+	static void display(String... values) {
+		System.out.println(values.length);
+	}
+
+	public static void main(String[] args) {
+		display();
+		display("50");
+	}
+
+}

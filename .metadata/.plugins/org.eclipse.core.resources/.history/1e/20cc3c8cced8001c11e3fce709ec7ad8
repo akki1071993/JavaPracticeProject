@@ -1,0 +1,19 @@
+package akash2;
+
+public class helloWorld2 {
+
+	int v = 500;
+
+	void change(int v) {
+		v = v + 100;
+	}
+
+	public static void main(String[] args) {
+		helloWorld2 op = new helloWorld2();
+		System.out.println("Befor value change" + op.v);
+		op.change(500);
+		System.out.println("After value change" + op.v);	
+
+	}
+
+}

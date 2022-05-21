@@ -1,0 +1,16 @@
+package akash;
+
+public class helloWorld {
+
+	public static void main(String[] args) {
+		System.out.println("Hello world !");
+
+		int a[]= {5,10,15,20,25};
+		
+		for(int x= 0; x < a.length; x++) {
+			System.out.println(a[x]);
+		}
+
+	}
+
+}
