@@ -7,7 +7,7 @@ public class helloWorld2 {
 		int sum =0;
 		for (int i : arr) {
 			sum +=i;
-		}l
+		}
 		return sum;
 	}
 
