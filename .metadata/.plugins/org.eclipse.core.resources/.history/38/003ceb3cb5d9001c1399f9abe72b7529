@@ -1,0 +1,16 @@
+package practice_project;
+
+import akash.helloWorld;
+
+public class AccessModifiers2 {
+
+	helloWorld obj = new helloWorld();
+	
+	System.out.println("Public: "+ obj.a);
+	System.out.println("Protected: "+ obj.b);
+	//System.out.println("Private: "+ obj.c);
+	System.out.println("Default: "+ obj.d);
+	
+	// In Same package  Private not accessible
+	
+}

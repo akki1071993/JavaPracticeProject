@@ -1,0 +1,14 @@
+package practice_project;
+
+public class AccessModifiers2 {
+
+	AccessModifiers obj = new AccessModifiers();
+	
+	System.out.println("Public: "+ obj.a);
+	System.out.println("Protected: "+ obj.b);
+	//System.out.println("Private: "+ obj.c);
+	System.out.println("Default: "+ obj.d);
+	
+	// In Same package  Private not accessible
+	
+}

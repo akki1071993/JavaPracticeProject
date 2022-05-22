@@ -13,7 +13,7 @@ public class Casting {
 		
 		/* Narrowing casting example */
 		Scanner sc =  new Scanner(System.in);
-        System.out.println("Enter an integer value");
+        System.out.println("Enter any integer value");
         int v = sc.nextInt();
         char ch = (char)v; // Narrowing casting
         

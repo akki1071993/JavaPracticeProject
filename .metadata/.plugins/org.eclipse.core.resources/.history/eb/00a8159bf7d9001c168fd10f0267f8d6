@@ -1,0 +1,10 @@
+package practice_project;
+
+public class CandidatePassedExamOrNot {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

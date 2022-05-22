@@ -5,14 +5,14 @@ import java.util.Scanner;
 public class AreaOfCircle {
 
 	public static void main(String[] args) {
-		int radius;
-	      double area;
-	      try (Scanner sc = new Scanner(System.in)) {
-	    	  System.out.println("Enter the radius of the circle ::");
-	    	  radius = sc.nextInt();
-	    	  }
-	      area = (radius*radius)*Math.PI;
-	      System.out.println("Area of the circle is ::"+area);
+		float radius; // for radius
+		float area;
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the radius of the circle :");
+		radius = sc.nextFloat();
+
+		area = (float) ((radius * radius) * Math.PI); // formula of finding Area Of Circle
+		System.out.println("Area of the circle is :" + area);
 	}
 
 }

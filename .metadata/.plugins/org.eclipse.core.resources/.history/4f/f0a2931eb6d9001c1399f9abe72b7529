@@ -1,0 +1,8 @@
+package practice_project2;
+import practice_project.AccessModifiers;
+
+public class AccessModifiersChild extends AccessModifiers {
+	
+	
+
+}

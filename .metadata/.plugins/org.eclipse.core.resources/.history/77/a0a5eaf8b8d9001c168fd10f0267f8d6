@@ -1,0 +1,18 @@
+package practice_project;
+import java.util.*;
+import java.util.spi.CalendarDataProvider;
+public class DateAndTime {
+
+	public static void main(String[] args) {
+		Calendar obj = Calendar.getInstance();
+		//Date date = obj.getTime();
+		System.out.println("Today's Date is :"+ obj.get(Calendar.DATE)
+		+"/" +obj.get(Calendar.MONTH)+"/"+obj.get(Calendar.YEAR));
+		
+		System.out.println("Current Timeis :"+ obj.getTimeZone());
+		
+		
+
+	}
+
+}

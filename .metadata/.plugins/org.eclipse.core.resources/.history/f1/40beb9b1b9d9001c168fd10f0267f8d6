@@ -1,0 +1,25 @@
+package practice_project;
+
+import java.util.*;
+import java.util.spi.CalendarDataProvider;
+
+public class DateAndTime {
+
+	public static void main(String[] args) {
+		Calendar obj = Calendar.getInstance();
+		// Date date = obj.getTime();
+		System.out.println("Date" + obj.get(Calendar.DATE));
+		System.out.println("Month" + "/" + obj.get(Calendar.MONTH));
+		System.out.print("Year" + "/" + obj.get(Calendar.YEAR));
+		System.out.print("HOUR" + "/" + obj.get(Calendar.HOUR) +":");
+		System.out.print("MINUTE" + "/" + obj.get(Calendar.MINUTE)+":");
+		System.out.println("SECOND" + "/" + obj.get(Calendar.SECOND));
+
+		System.out.println("Current Timeis");
+		System.out.println(obj.getCalendarType());
+		System.out.println("Current Time Zone");
+		System.out.println(obj.getTimeZone());
+
+	}
+
+}
