@@ -13,6 +13,7 @@ public class AccessModifiersChild extends AccessModifiers {
 		//System.out.println("Default: "+ obj.d);
 		
 		// In Child call public and Protected both accessible 
+		// In Child call public and Protected both accessible 
 	}
 
 }
