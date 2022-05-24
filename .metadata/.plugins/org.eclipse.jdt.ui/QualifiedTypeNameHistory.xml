@@ -10,6 +10,7 @@
     <fullyQualifiedTypeName name="practice_project.AccessModifiers"/>
     <fullyQualifiedTypeName name="java.util.spi.CalendarDataProvider"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="practice_project.MethodDemo"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
