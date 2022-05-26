@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="obj"/>
+		<item key="selection" value="Animal a = new Animal();"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="Animal a = new Animal();"/>
+			<item value="akki"/>
+			<item value="City"/>
+			<item value="Amaze"/>
+			<item value="public Student(int rollNo, String name, String department) {"/>
 			<item value="hw"/>
 			<item value="for (int i = 0; i &lt; args.length; i++) {"/>
 			<item value="for(int x= 0; x &lt; a.length; x++) {"/>
-			<item value="&#x09;// do.. while loop"/>
-			<item value="&#x0D;&#x0A;&#x09;&#x09;while (n2&lt;=y) {&#x0D;&#x0A;&#x09;&#x09;&#x09;&#x0D;&#x0A;&#x09;&#x09;&#x09;System.out.println(n2); &#x0D;&#x0A;&#x09;&#x09;&#x09;n2++;&#x0D;&#x0A;&#x09;&#x09;}&#x0D;&#x0A;&#x09;&#x09;&#x0D;&#x0A;&#x09;&#x09;// do.. while loop&#x0D;&#x0A;&#x09;&#x09;do {&#x0D;&#x0A;&#x09;&#x09;&#x09;System.out.println(n3); &#x0D;&#x0A;&#x09;&#x09;&#x09;n2++;&#x0D;&#x0A;&#x09;&#x09;} while (n3&lt;=z);"/>
 		</list>
 		<list key="replacehistory">
+			<item value="vijay"/>
+			<item value="jay"/>
+			<item value="CRV"/>
+			<item value="City"/>
 			<item value="obj"/>
 		</list>
 	</section>
