@@ -3,12 +3,12 @@ package akash.abstractclass;
 public abstract class BuildingImplementation implements Building {
 
 	public void hallKitchen() {
-
+		System.out.println("1 hall and Kitchen");
 	};
 
-	abstract public void bedRoom1();
+	abstract public void OneBHK();
 
-	abstract public void bedRoom2();
+	abstract public void TowBHK();
 
-	abstract public void bedRoom3();
+	abstract public void ThreeBHK();
 }

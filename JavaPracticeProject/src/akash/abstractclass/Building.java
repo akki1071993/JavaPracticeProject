@@ -3,7 +3,7 @@ package akash.abstractclass;
 public interface Building {
 
 	public void hallKitchen();
-	public void bedRoom1();
-	public void bedRoom2();
-	public void bedRoom3();
+	public void OneBHK();
+	public void TowBHK();
+	public void ThreeBHK();
 }

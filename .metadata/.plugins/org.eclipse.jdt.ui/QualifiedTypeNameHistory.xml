@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="Sum"/>
-    <fullyQualifiedTypeName name="java.lang.Float"/>
-    <fullyQualifiedTypeName name="akash2.helloWorld2.Opration"/>
-    <fullyQualifiedTypeName name="akash2.helloWorld2"/>
     <fullyQualifiedTypeName name="akash.helloWorld"/>
     <fullyQualifiedTypeName name="java.util.spi.CalendarDataProvider"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="practice_project.MethodDemo"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="practice_project.AccessModifiers"/>
     <fullyQualifiedTypeName name="java.oops.school"/>
     <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthScrollBarUI"/>
     <fullyQualifiedTypeName name="akash.oops.Student"/>
     <fullyQualifiedTypeName name="java.oops.student"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="akash.encapsulation.Student"/>
     <fullyQualifiedTypeName name="akash.abstractionUsingInterface.Car"/>
     <fullyQualifiedTypeName name="akash.abstractionUsingInterface.HonadAmaze"/>
@@ -26,7 +19,6 @@
     <fullyQualifiedTypeName name="akash.abstractclass.Shape"/>
     <fullyQualifiedTypeName name="akash.abstractclass.Rectangle"/>
     <fullyQualifiedTypeName name="java.lang.Double"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="akash.inheritance.MultipleInheritanceWithInterface.Animal"/>
     <fullyQualifiedTypeName name="akash.inheritance.MultipleInheritanceWithInterface"/>
     <fullyQualifiedTypeName name="akash.inheritance.Child"/>
@@ -34,4 +26,38 @@
     <fullyQualifiedTypeName name="akash.inheritance.AnimalTravel"/>
     <fullyQualifiedTypeName name="akash.inheritance.AnimalEat"/>
     <fullyQualifiedTypeName name="akash.inheritance.Animal"/>
+    <fullyQualifiedTypeName name="java.lang.Package"/>
+    <fullyQualifiedTypeName name="akash.multilevelinheritance.SubClass"/>
+    <fullyQualifiedTypeName name="akash.multilevelinheritance.Parent"/>
+    <fullyQualifiedTypeName name="akash.multilevelinheritance.Base"/>
+    <fullyQualifiedTypeName name="practice_project.AccessModifiers"/>
+    <fullyQualifiedTypeName name="akash.MultipleInheritanceWithInterfaceDaimondproblem.C"/>
+    <fullyQualifiedTypeName name="akash.MultipleInheritanceWithInterfaceDaimondproblem.A"/>
+    <fullyQualifiedTypeName name="akash.MultipleInheritanceWithInterfaceDaimondproblem.B"/>
+    <fullyQualifiedTypeName name="akash.abstractclass.BuildingImplementation"/>
+    <fullyQualifiedTypeName name="akash.abstractclass.finalBuilding"/>
+    <fullyQualifiedTypeName name="akash.polymorphism.Base"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="akash.polymorphism.MethodOverloading"/>
+    <fullyQualifiedTypeName name="akash.InnerClass.Regular"/>
+    <fullyQualifiedTypeName name="akash.InnerClass.Regular.Inner"/>
+    <fullyQualifiedTypeName name="Inner"/>
+    <fullyQualifiedTypeName name="akash.InnerClass.LocalInnerClass"/>
+    <fullyQualifiedTypeName name="akash.InnerClass.School"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.util.PriorityQueue"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="akash.list.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.TooManyListenersException"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
 </qualifiedTypeNameHistroy>

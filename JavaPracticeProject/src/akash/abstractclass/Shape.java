@@ -6,12 +6,12 @@ public abstract class Shape {
 	// abstract class
 	public abstract String outPut();
 
-	// Default constructor 
+	// Default constructor
 	public Shape(String color) {
 		this.color = color;
 	}
 
-	//Return color
+	// Return color
 	public String getColor() {
 		return color;
 	}
