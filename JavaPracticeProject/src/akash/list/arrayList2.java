@@ -18,6 +18,7 @@ public class arrayList2 {
 		myList.add("Drashti"); // 04
 		myList.add("Jay"); // 05
 		myList.add("Priyansh"); // 06
+		myList.add(null); // 07
 
 		System.out.println("My list: " + myList); // print list value in array form
 		myList.remove(5); // it remove 5 number index value that is "Jay"
