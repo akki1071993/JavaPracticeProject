@@ -1,4 +1,4 @@
-package akash.file;
+package akash.fileWrite;
 
 
 
@@ -27,7 +27,7 @@ public class UpdateFile {
 				line=reader.readLine();
 			}
 		
-			//lets update oldcontent with new
+			//lets update old content with new
 			String newContent= oldContent.replaceAll(oldString, newString);
 			
 			//let's write this updated data to file

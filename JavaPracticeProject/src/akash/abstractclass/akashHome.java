@@ -5,7 +5,7 @@ public class akashHome extends finalBuilding {
 	public static void main(String[] args) {
 
 		finalBuilding ab = new finalBuilding();		
-		ab.OneBHK();
+		ab.TowBHK();
 		
 		ab.hallKitchen();
 

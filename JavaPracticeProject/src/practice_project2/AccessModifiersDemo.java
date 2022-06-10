@@ -6,7 +6,6 @@ public class AccessModifiersDemo {
 	
 	
 	public static void main(String[] args) {
-		//System.out.println("Hello world !");
 		
 		AccessModifiers obj = new AccessModifiers();
 		

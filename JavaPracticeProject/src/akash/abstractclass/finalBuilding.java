@@ -8,7 +8,7 @@ public class finalBuilding extends BuildingImplementation {
 	}
 
 	public void TowBHK() {
-		System.out.println("2 HBK");
+		System.out.println("2 Room");
 
 	}
 

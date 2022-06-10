@@ -12,11 +12,13 @@ public class Rectangle extends Shape {
 	}
 	
 	public double getArea () {
+		
 		return width * hight;
 	}
 
 	
 	public String outPut() {		
+		getArea();
 		return "Rectangle color is " + getColor()+ "\nArea is " + getArea();
 	}
 
